@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+aiogram==3.0.0b7
+python-dotenv
+alembic
+python-dotenv
+aiogram3-calendar
